@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorTest", "TorTest\TorTest.csproj", "{1FD92525-A6DE-4211-9641-6E44751C1AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD92525-A6DE-4211-9641-6E44751C1AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD92525-A6DE-4211-9641-6E44751C1AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD92525-A6DE-4211-9641-6E44751C1AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD92525-A6DE-4211-9641-6E44751C1AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54052682-2182-49B8-A5C4-B8A5F81F47E8}
+	EndGlobalSection
+EndGlobal
